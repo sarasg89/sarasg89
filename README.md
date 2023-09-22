@@ -2,7 +2,7 @@
 
 ## My name is Sara
 ### 👩‍💻 I'm currently working on improving my coding skills
-### 🎓 I have recently graducated of the University of Toronto's Coding Bootcamp 
+### 🎓 I have recently graduated from the University of Toronto's Coding Bootcamp 
 ### ⚡️ Fun fact about me: I'm a human GPS, I remember full city layouts after just one visit and can orientate myself around an unknown area very easily
 
 ## Check out my portfolio
